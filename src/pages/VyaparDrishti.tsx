@@ -99,7 +99,7 @@ const plans = [
   },
 ];
 
-const DristiDocs = () => {
+const VyaparDrishti = () => {
   return (
     <Layout>
       {/* Hero Section */}
@@ -273,4 +273,4 @@ const DristiDocs = () => {
   );
 };
 
-export default DristiDocs;
+export default VyaparDrishti;
